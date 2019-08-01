@@ -13,8 +13,8 @@
 } */
 
 #our_story,
-#review 
-#contact
+#review, 
+#contact,
 #menu {
     min-height:600px;
 }
@@ -182,6 +182,7 @@ nav.navbar {
 
 
 /* end of our story */
+
 
 /* Menu */
 
